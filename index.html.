@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portofolio Andaf</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Portofolio Saya</h1>
+        <div class="profile-photo">
+            <img src="https://titipjepang.com/wp-content/uploads/2023/07/BLOG-Lirik-lagu-doraemon-1024x1024.jpeg" alt="Foto Profil Andaf">
+        </div>
+        <div class="biodata">
+            <p><strong>Nama:</strong> Andaf</p>
+            <p><strong>Umur:</strong> 17</p>
+            <p><strong>Life:</strong> Lajoa</p>
+        </div>
+        <div class="deskripsi">
+            <p><em>Terima kasih Pak Jokowi</em></p>
+        </div>
+    </div>
+</body>
+</html>
